@@ -1,8 +1,8 @@
 // Copie ce fichier en "config.h" et remplis tes valeurs (config.h n est pas versionné).
 #pragma once
 
-const char* WIFI_SSID = "TON_WIFI";
-const char* WIFI_PASS = "TON_MOT_DE_PASSE";
+const char* WIFI_SSID = "SFR_F2CF";
+const char* WIFI_PASS = "b43wf8svw9d5u3x4sz4s";
 
 // IP du PC qui fait tourner server/run_server.py
-const char* API_URL = "http://192.168.1.XXX:8000/api/scan";
+const char* API_URL = "http://192.168.1.56:8000/api/scan";
